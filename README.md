@@ -1,3 +1,3 @@
-#### Desctiption
+#### Desciption
 
-Windows Commmand Prompt Automation Using Java Code
+Windows Command Prompt Automation Using Java Runtime and Process builder
